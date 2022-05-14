@@ -1,0 +1,38 @@
+{
+  "q01": [
+    "getaddrinfo",
+    "socket",
+    "bind",
+    "listen",
+    "accept",
+    "read",
+    "write",
+    "close"
+  ],
+  "q02": [
+    "refused",
+    "interrupt",
+    "unreach",
+    "timedout"
+  ],
+  "q03": [
+    "kernel",
+    "pids",
+    "rlimit"
+  ],
+  "q04": [
+    "SIGCHLD",
+    "clone",
+    "wait4"
+  ],
+  "q05": [
+    "defunct",
+    "wait",
+    "init"
+  ],
+  "q06": [
+    "bandwidth_100",
+    "server_latency",
+    "server_fairness"
+  ]
+}
